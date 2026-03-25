@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "page_test.h": "c",
+        "page_conf.h": "c",
+        "lv_printf.h": "c",
+        "lv_xiaozhi.h": "c",
+        "stdio.h": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "em_hal_brightness.h": "c",
+        "time.h": "c",
+        "sstream": "cpp",
+        "page_main.h": "c",
+        "image_conf.h": "c",
+        "string.h": "c",
+        "memory": "cpp",
+        "future": "cpp",
+        "istream": "cpp",
+        "functional": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
